@@ -1,7 +1,6 @@
 # Door Status Detector
 
 This application provides a real-time visual display of a door's open/closed status using Arduino, JavaScript, HTML, and CSS.
-[![Door Status Detector Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg]([https://github.com/bilal8767/MayIComeIn/blob/main/FHXY5292.MOV](https://github.com/bilal8767/MayIComeIn/blob/main/FHXY5292.MOV)))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/bilal8767/MayIComeIn/blob/main/FHXY5292.MOV))
 
 ## Application Architecture and Functionality
 
